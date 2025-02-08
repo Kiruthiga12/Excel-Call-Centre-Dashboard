@@ -7,7 +7,7 @@ This *Excel dashboard* provides insights into call center operations, including 
 ---
 
 ## 🚀 Dashboard Preview  
-![Call Center Dashboard](images/Call Centre Data Analysis.png)  
+Refer Call Centre Data Analysis.png 
 
 ---
 
